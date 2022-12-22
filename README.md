@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwasegun Akinbode
-- 👀 I’m passionate about tech - Business analysis, Quality assurance analysis and software engineering.
+- 👀 I’m passionate about tech - Software Business analysis, Quality assurance analysis and software engineering.
 - 🌱 I’m currently learning C program
 - 💞️ I’m looking to collaborate with friends with like minds
 - 📫 How to reach me oluwasegun.akinbode1997@gmail.com
